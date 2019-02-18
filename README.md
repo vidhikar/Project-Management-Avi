@@ -1,3 +1,3 @@
 # Project-Management-Avi
 This project is for Application Development course in college.
-Creators: 
+Creators: Namrata Sanger and Priya Jain
